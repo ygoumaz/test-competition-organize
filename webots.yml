@@ -2,6 +2,6 @@ publish: true
 type: benchmark
 world:
   file: worlds/robot_programming.wbt
-  max-duration: 30
+  max-duration: 60
   metric: percent
 dockerCompose: theia:webots-project/controllers/edit_me/
