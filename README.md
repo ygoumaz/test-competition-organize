@@ -1,6 +1,6 @@
 <span id="title">
 
-# My simple benchmark
+# My hard benchmark
 
 </span>
 
